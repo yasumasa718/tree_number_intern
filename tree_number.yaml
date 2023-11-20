@@ -1,0 +1,7 @@
+train: /home/yasumasa-tezuka/NeuroDive_日揮インターン/intern_tree_number_github/intern_tree_number/tree_images
+val: /home/yasumasa-tezuka/NeuroDive_日揮インターン/intern_tree_number_github/intern_tree_number/tree_images
+test: /home/yasumasa-tezuka/NeuroDive_日揮インターン/intern_tree_number_github/intern_tree_number/tree_images
+
+nc: 1  # クラスの数（例: 木だけを検出する場合は1）
+names: ['Tree']  # クラス名のリスト
+
